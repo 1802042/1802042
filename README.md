@@ -7,7 +7,7 @@
   <a href="https://www.codechef.com/users/dlwlrm4"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 </p>
 
-<p align="center">ICPC Asia West Continental Finalist 2021 | Competitive Programming Enthusiast | Full Stack Developer</p>
+<p align="center">ICPC Asia West Continental Finalist 2021 | Competitive Programmer | Linux Enthusiast | Full Stack Developer</p>
 
 ## 🚀 About Me
 I'm a Computer Science undergraduate with a passion for algorithmic problem-solving and software development. Currently leading the CSE Club at PSTU and working on developing the PSTU CSE IDE project.
