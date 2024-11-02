@@ -24,17 +24,6 @@ I'm a Computer Science undergraduate with a passion for algorithmic problem-solv
     - Backend: Node.js, Express.js, MongoDB, Redis (message queue)
     - Frontend: React.js, Tailwind CSS
 
-## 🏆 Competitive Programming Achievements
-- **ACM ICPC**: Asia West Continental Finalist & 3 Times ACM ICPC ASIA Dhaka Regional Finalist.
-- **Codeforces**: Expert (Max Rating: 1772)
-- **CodeChef**: 5★ (Max Rating: 2047)
-- **Problem Solving**: 3000+ algorithmic problems solved
-
-### 🎯 Recent Contest Rankings
-- 18th Place - IUT National ICT Fest 2024 (Team: PSTU Mooncalves)
-- 32nd Place - SUST CSE Carnival 2024 (Team: PSTU Mooncalves)
-- 14th Place - CoU-BRACNet IUPC 2023 (Team: PSTU Mooncalves)
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -77,12 +66,6 @@ I'm a Computer Science undergraduate with a passion for algorithmic problem-solv
   - Patuakhali Science and Technology University
   - GPA: 3.4/4.0
   - 2019 - Present
-
-## 👥 Leadership
-- **President** - CSE Club, PSTU (2024 - Present)
-  - Organizing technical events and programming contests
-  - Building industry connections
-  - Mentoring junior developers
 
 ## 📊 GitHub Stats
 
