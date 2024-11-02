@@ -61,13 +61,6 @@ I'm a Computer Science undergraduate with a passion for algorithmic problem-solv
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1802042&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1802042&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ## 📫 Connect With Me
 - Email: rony16@cse.pstu.ac.bd
 - Phone: +8801742-059121
